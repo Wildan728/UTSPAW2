@@ -10,3 +10,6 @@ const PariwisataController = require("../controller/wildan");
 router.post('/', PariwisataController.createdPariwisata);
 
 module.exports = router;
+
+//link repo
+//https://github.com/Wildan728/UTSPAW2.git
